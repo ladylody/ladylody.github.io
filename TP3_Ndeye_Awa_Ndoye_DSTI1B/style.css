@@ -1,0 +1,30 @@
+	body{
+			background-image: url("./thQDN902J1.jpg");
+		 	background-repeat: no-repeat;
+  			background-attachment: fixed;
+			background-position: center;
+			background-color: #fefbd8; 
+		}
+		#mar{
+				font-family: "Segoe UI", Tahoma, Geneva, Verdana;
+				font-style: italic;
+				margin-top: 15px; 
+				font-size: x-large;
+				color: rgb(201, 76, 76);
+		}
+		div{
+			font-family: "Segoe UI", Tahoma, Geneva, Verdana;
+			text-align: center;
+			color: gold;
+		}
+		#pied{
+			margin-top: 250px; 
+		}
+		p{
+			font-family: "Segoe UI", Tahoma, Geneva, Verdana;
+			text-align: center;
+			font-style: italic;
+			font-size: x-large;
+			color: rgb(201, 76, 76);
+
+		}
